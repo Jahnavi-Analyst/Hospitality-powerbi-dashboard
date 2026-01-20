@@ -59,9 +59,4 @@ The project uses a **sample hospitality dataset prepared for academic analysis**
 The dashboard provides a clear and interactive view of hospitality performance
 and helps stakeholders make informed business decisions efficiently.
 
----
 
-## 📚 References
-- Microsoft Power BI Documentation
-- Power BI DAX Guide
-- Hospitality Analytics Case Studies
