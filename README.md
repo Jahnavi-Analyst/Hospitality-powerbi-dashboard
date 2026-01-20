@@ -1,7 +1,5 @@
 # Hospitality-powerbi-dashboard
 
-# Hospitality Analytics Dashboard (Power BI)
-
 ## 📌 Project Overview
 
 This project focuses on analyzing hotel performance using an interactive
